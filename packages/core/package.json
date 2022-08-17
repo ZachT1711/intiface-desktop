@@ -38,7 +38,7 @@
     "is-online": "^8.4.0",
     "jest": "^26.4.0",
     "less": "^3.12.2",
-    "protobufjs": "^6.10.1",
+    "protobufjs": "^6.10.3",
     "request": "^2.88.2",
     "rimraf": "^3.0.2",
     "selfsigned": "^1.10.7",
