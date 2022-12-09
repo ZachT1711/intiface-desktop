@@ -5642,7 +5642,7 @@ interpret@^1.0.0:
   integrity sha512-agE4QfB2Lkp9uICn7BAqoscw4SZP9kTE2hxiFI3jBPmXJfdqiahTbUuKGsMoN2GtqL9AxhYioAcVvgsb1HvRbA==
 
 "intiface-core-library@file:../core":
-  version "16.0.0"
+  version "19.0.0"
   dependencies:
     "@octokit/rest" "^18.0.3"
     "@octokit/types" "^5.4.0"
@@ -5655,7 +5655,7 @@ interpret@^1.0.0:
     buttplug "^0.13.1"
     codecov "^3.7.2"
     copyfiles "^2.3.0"
-    intiface-protocols "file:../../../../AppData/Local/Yarn/Cache/v6/npm-intiface-core-library-16.0.0-d0cf2f5b-b2ac-4026-af73-1dac61a3e512-1599801978865/node_modules/protocols"
+    intiface-protocols "file:../protocols"
     is-online "^8.4.0"
     jest "^26.4.0"
     less "^3.12.2"
@@ -5674,7 +5674,7 @@ interpret@^1.0.0:
     ws "^7.3.1"
 
 "intiface-protocols@file:../protocols":
-  version "18.0.0"
+  version "19.0.0"
   dependencies:
     protobufjs "^6.10.1"
 
@@ -8811,9 +8811,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
