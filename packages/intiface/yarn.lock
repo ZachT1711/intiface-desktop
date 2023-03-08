@@ -5642,7 +5642,7 @@ interpret@^1.0.0:
   integrity sha512-agE4QfB2Lkp9uICn7BAqoscw4SZP9kTE2hxiFI3jBPmXJfdqiahTbUuKGsMoN2GtqL9AxhYioAcVvgsb1HvRbA==
 
 "intiface-core-library@file:../core":
-  version "16.0.0"
+  version "19.0.0"
   dependencies:
     "@octokit/rest" "^18.0.3"
     "@octokit/types" "^5.4.0"
@@ -5655,7 +5655,7 @@ interpret@^1.0.0:
     buttplug "^0.13.1"
     codecov "^3.7.2"
     copyfiles "^2.3.0"
-    intiface-protocols "file:../../../../AppData/Local/Yarn/Cache/v6/npm-intiface-core-library-16.0.0-d0cf2f5b-b2ac-4026-af73-1dac61a3e512-1599801978865/node_modules/protocols"
+    intiface-protocols "file:../protocols"
     is-online "^8.4.0"
     jest "^26.4.0"
     less "^3.12.2"
@@ -5674,7 +5674,7 @@ interpret@^1.0.0:
     ws "^7.3.1"
 
 "intiface-protocols@file:../protocols":
-  version "18.0.0"
+  version "19.0.0"
   dependencies:
     protobufjs "^6.10.1"
 
@@ -7269,9 +7269,9 @@ minimatch@^3.0.3, minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.1.1, minimist@^1.1.3, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
+  integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
 
 minipass-collect@^1.0.2:
   version "1.0.2"
